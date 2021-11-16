@@ -1,0 +1,6 @@
+https://www.kaggle.com/aufaf29/nlp-arguments-glovex
+https://www.kaggle.com/aufaf29/nlp-arguments-word2vecx
+https://www.kaggle.com/aufaf29/nlp-arguments-bertx
+https://www.kaggle.com/aufaf29/nlp-arguments-fasttextx
+https://www.kaggle.com/aufaf29/nlp-arguments-shallowml
+
